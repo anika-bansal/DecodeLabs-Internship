@@ -1,9 +1,9 @@
 # Data Science Internship Portfolio - Anika Bansal
 
-Welcome! This repository contains the projects and assignments completed during my data science internship with Decode Labs.
+Welcome! This repository contains the projects and assignments completed during my data science internship with Decode Labs in 2026.
 
 ## 📂 Repository Structure
-* **/Project-1/**: Notebook and dataset handling missing features and implementing a K-Nearest Neighbors model.
+* **Project 1**: Notebook and dataset handling missing features and implementing a K-Nearest Neighbors model.
 * *(future project folders here)*
 
 ## 🛠️ Tech Stack
